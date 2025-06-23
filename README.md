@@ -9,7 +9,7 @@
     ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Penetration+Testing+Explorer;Reverse+Engineering+Student;Ethical+Hacker+in+Training" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Penetration+Testing;Reverse+Engineering;Ethical+Hacking" alt="Typing SVG" />
 
 </div>
 
