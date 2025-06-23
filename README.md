@@ -19,10 +19,10 @@
 
 > *"Understanding systems by breaking them, building them stronger."*
 
-🎓 **Junior Computer Science Student** with a passion for cybersecurity and ethical hacking  
-🔍 **Penetration Testing Enthusiast** exploring vulnerabilities and security frameworks  
-🛠️ **Reverse Engineering Explorer** diving deep into how systems work under the hood  
-🔐 **Security-First Developer** building applications with robust security foundations
+**Junior Computer Science Student** with a passion for cybersecurity and ethical hacking  
+**Penetration Testing Enthusiast** exploring vulnerabilities and security frameworks  
+**Reverse Engineering Explorer** diving deep into how systems work under the hood  
+**Security-First Developer** building applications with robust security foundations
 
 <div align="center">
 
@@ -141,51 +141,13 @@ Status: 🎯 Feature Complete
 
 </div>
 
-### 🎯 **Specializations**
+## 🎯 **Specializations**
 ```
 🔍 Penetration Testing    🔐 Cryptography         🛡️ Secure Development
 🔧 Reverse Engineering   📊 Vulnerability Assessment   🌐 Network Security
 💻 System Analysis       🔒 Authentication Systems     📱 Mobile Security
 ```
 
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chuckzxxmello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckzxxmello&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chuckzxxmello&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 **Current Focus**
-
-```mermaid
-graph LR
-    A[🎓 Academic Studies] --> B[💻 Practical Projects]
-    B --> C[🔍 Security Research]
-    C --> D[🛡️ Ethical Hacking]
-    D --> E[🚀 Innovation]
-    E --> A
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
-```
-
-- 🔬 **Research:** Advanced cryptographic implementations
-- 🎯 **Learning:** Cloud security and DevSecOps practices
-- 🛠️ **Building:** Next-generation security tools
-- 🤝 **Contributing:** Open-source security projects
-
----
 
 ## 🌟 **Let's Connect!**
 
@@ -197,16 +159,9 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chuckz--española-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuckz-española)
 [![GitHub](https://img.shields.io/badge/GitHub-chuckzxxmello-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chuckzxxmello)
 
-### 💬 **Open to Collaborate On:**
-🔐 Security Research • 🛡️ Penetration Testing • 💻 Open Source Projects • 🎓 Learning Opportunities
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
-
----
 
 <div align="center">
 <sub>🔒 <strong>Ethical Hacking</strong> • 🛡️ <strong>Secure Development</strong> • 🔍 <strong>Continuous Learning</strong></sub>
