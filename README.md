@@ -137,6 +137,8 @@ Status: 🎯 Feature Complete
 
 ### 📬 **Profiles**
 
+- **Curriculum Vitae:** [PDF](https://drive.google.com/file/d/1qM-Yn8dWHh0vjfcyBjQfJAzQ9DHfnSnq/view?usp=drive_link)
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-chuckz.espanola99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chuckz.espanola99@gmail.com)
