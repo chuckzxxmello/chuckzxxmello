@@ -139,21 +139,7 @@ Status: 🎯 Feature Complete
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6B35?style=for-the-badge&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-2F4F4F?style=for-the-badge&logoColor=white)
 
-</div>
-
-## 🎯 **Specializations**
-```
-🔍 Penetration Testing    🔐 Cryptography         🛡️ Secure Development
-🔧 Reverse Engineering   📊 Vulnerability Assessment   🌐 Network Security
-💻 System Analysis       🔒 Authentication Systems     📱 Mobile Security
-```
-
-
-## 🌟 **Let's Connect!**
-
-<div align="center">
-
-### 📬 **Get In Touch**
+### 📬 **Profiles**
 
 [![Email](https://img.shields.io/badge/Email-chuckz.espanola99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chuckz.espanola99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chuckz--española-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuckz-española)
