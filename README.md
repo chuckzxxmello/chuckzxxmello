@@ -17,10 +17,10 @@
 
 > *"Understanding systems by breaking them, building them stronger."*
 
-**Junior Computer Science Student** with a passion for cybersecurity and ethical hacking  
-**Penetration Testing Enthusiast** exploring vulnerabilities and security frameworks  
-**Reverse Engineering Explorer** diving deep into how systems work under the hood  
-**Security-First Developer** building applications with robust security foundations
+- **Junior Computer Science Student** with a passion for cybersecurity and ethical hacking  
+- **Penetration Testing Enthusiast** exploring vulnerabilities and security frameworks  
+- **Reverse Engineering Explorer** diving deep into how systems work under the hood  
+- **Security-First Developer** building applications with robust security foundations
 
 <div align="center">
 
