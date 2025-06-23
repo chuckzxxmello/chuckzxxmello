@@ -1,5 +1,7 @@
 <div align="center">
 
+<link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400&family=Orbitron:wght@400;700;900&family=Share+Tech+Mono:wght@400&display=swap" rel="stylesheet">
+
 ```
     ██████╗██╗  ██╗██╗   ██╗ ██████╗██╗  ██╗███████╗    ███████╗███████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ██╗      █████╗ 
    ██╔════╝██║  ██║██║   ██║██╔════╝██║ ██╔╝╚══███╔╝    ██╔════╝██╔════╝██╔══██╗██╔══██╗████╗  ██║██╔═══██╗██║     ██╔══██╗
@@ -140,7 +142,5 @@ Status: 🎯 Feature Complete
 [![Email](https://img.shields.io/badge/Email-chuckz.espanola99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chuckz.espanola99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chuckz--española-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuckz-española)
 [![GitHub](https://img.shields.io/badge/GitHub-chuckzxxmello-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chuckzxxmello)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
