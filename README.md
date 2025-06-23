@@ -13,7 +13,7 @@
 
 </div>
 
-## 🔥 **About Me**
+### 🔥 **About Me**
 
 > *"Understanding systems by breaking them, building them stronger."*
 
@@ -29,7 +29,7 @@
 
 </div>
 
-## 🚀 **Featured Projects**
+### 🚀 **Featured Projects**
 
 <table>
 <tr>
