@@ -118,7 +118,7 @@ Status: 🎯 Feature Complete
 ### 💻 **Development Stack**
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=c,cpp,python,js,ts,bash,powershell,visualstudio,vscode,github,linux,windows,firebase,postgresql&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,js,ts,python,bash,powershell,visualstudio,vscode,github,linux,windows,firebase,postgresql&theme=dark)](https://skillicons.dev)
 
 </div>
 
