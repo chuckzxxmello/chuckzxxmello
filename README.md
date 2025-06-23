@@ -24,9 +24,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=chuckzxxmello&color=00f7ff&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/chuckzxxmello?style=flat-square&color=00f7ff)
-
 </div>
 
 ### 🚀 **Featured Projects**
