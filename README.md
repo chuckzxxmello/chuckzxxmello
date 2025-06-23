@@ -52,5 +52,6 @@ A Junior Computer Science student with hands-on experience in penetration testin
 ![Valgrind](https://img.shields.io/badge/Valgrind-2F4F4F?style=for-the-badge&logoColor=white)
 
 ### 📱 **Contact Me** 📱
-
+<div align="center">
 📧 **chuckz.espanola99@gmail.com** | 💼 **[LinkedIn](https://linkedin.com/in/chuckz-española)** | 👨🏼‍💻 **[GitHub](https://github.com/chuckzxxmello)**
+</div>
