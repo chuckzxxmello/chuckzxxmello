@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ## 🔥 **About Me**
 
 > *"Understanding systems by breaking them, building them stronger."*
@@ -30,8 +28,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/chuckzxxmello?style=flat-square&color=00f7ff)
 
 </div>
-
----
 
 ## 🚀 **Featured Projects**
 
@@ -118,9 +114,6 @@ Status: 🎯 Feature Complete
 </tr>
 </table>
 
----
-
-## 🛠️ **Technology Arsenal**
 
 ### 💻 **Development Stack**
 <div align="center">
@@ -148,8 +141,3 @@ Status: 🎯 Feature Complete
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
-
-<div align="center">
-<sub>🔒 <strong>Ethical Hacking</strong> • 🛡️ <strong>Secure Development</strong> • 🔍 <strong>Continuous Learning</strong></sub>
-</div>
-```
