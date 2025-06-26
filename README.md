@@ -15,7 +15,7 @@
 
 </div>
 
-[![Drogon](https://img.shields.io/badge/Chuckz_Portfolio-1679A7?style=for-the-badge)]([https://chuckz.vercel.app](https://kzmm5l18aapq6aw07zvv.lite.vusercontent.net))
+[![Drogon](https://img.shields.io/badge/Chuckz_Portfolio-1679A7?style=for-the-badge)](https://kzmm5l18aapq6aw07zvv.lite.vusercontent.net)
 [![Ghidra](https://img.shields.io/badge/CURRICULUM_VITAE-FF6B35?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1qM-Yn8dWHh0vjfcyBjQfJAzQ9DHfnSnq/view?usp=drive_link)
 
 ### About Me
